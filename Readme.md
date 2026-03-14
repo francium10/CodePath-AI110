@@ -1,11 +1,11 @@
 # Ai110 — AI & Machine Learning Projects
 
-A collection of hands-on AI and machine learning project and  Exercises 
+A collection of hands-on AI and machine learning project and  Exercises From code Path
 ---
 
 ## About
 
-This repository documents my learning journey through applied AI — from core Python and data structures to machine learning models and AI-powered applications. Projects span academic coursework, personal experiments, and intersections between AI and the life sciences.
+This repository documents my learning journey through applied AI — from core Python and data structures to machine learning models and AI-powered applications. Projects span academic coursework, personal experimental and all learning from code Path
 
 ---
 
