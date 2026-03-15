@@ -65,3 +65,22 @@
 # # print(a + c)        # ❌ TypeError — can't add int + str directly
 # print(a + int(c))     # ✅ 12   — convert first, then add
 # print(a + b + int(c)) # ✅ 14.5 — all three together
+
+
+# Reading Python Error Messages
+
+# Python errors are usually very clear once you know what to look for . Every error message gives you:
+# the file where it happened
+# the line number
+# the exact exception type
+# a short description of what went wrong
+# numbers = [1, 2, 3]
+# print(numbers[1])
+
+
+# Debugging with Print Statements
+# Prints are still one of the fastest ways to see what your code is doing:
+
+def add(a, b):
+    print("a =", a, "b =", b)
+    return a + b
